@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "currency-conversion-service.ribbon.listOfServers",
+  "type": "java.lang.String",
+  "description": "A description for 'currency-conversion-service.ribbon.listOfServers'"
+}]}
