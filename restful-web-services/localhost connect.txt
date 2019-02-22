@@ -1,0 +1,5 @@
+http://localhost:8080/h2-console
+
+http://localhost:8080/swagger-ui.html
+
+https://cloud.mongodb.com/user?n=%2Fv2%2F5c4eb364cf09a2583f29261f&nextHash=%23metrics%2FreplicaSet%2F5c4eb459014b76f2ca6d834e%2Fexplorer%2Ftest%2Fcustomer%2Ffind#/atlas/login
